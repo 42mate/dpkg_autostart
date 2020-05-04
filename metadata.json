@@ -2,8 +2,8 @@
   "name": "dpkg_autostart",
   "description": "Control service actions initialized from dpkg",
   "long_description": "",
-  "maintainer": "Chris Roberts",
-  "maintainer_email": "chrisroberts.code@gmail.com",
+  "maintainer": "Marcos Ibanez",
+  "maintainer_email": "marcos@42mate.com",
   "license": "Apache 2.0",
   "platforms": {
 
@@ -35,7 +35,7 @@
   "recipes": {
 
   },
-  "version": "0.2.0",
+  "version": "0.2.1",
   "source_url": "",
   "issues_url": ""
 }
